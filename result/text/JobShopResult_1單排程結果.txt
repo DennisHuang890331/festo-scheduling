@@ -1,0 +1,18 @@
+Storage    : job_0_0   job_0_12  
+             [0,18]    [777,792] 
+AGV        : job_0_1   job_0_4   job_0_9   job_0_11  
+             [93,146]  [211,272] [461,522] [666,727] 
+Check part : job_0_2   
+             [163,165] 
+Milling    : job_0_3   
+             [177,184] 
+PCB        : job_0_5   
+             [292,364] 
+Fuse check : job_0_6   
+             [391,392] 
+Cover      : job_0_7   
+             [416,418] 
+Pressure   : job_0_8   
+             [431,434] 
+Heat       : job_0_10  
+             [564,652] 
